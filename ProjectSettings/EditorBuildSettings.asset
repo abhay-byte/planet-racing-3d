@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 680c103811e10854690a23bd02e53965
+  - enabled: 1
+    path: Assets/Scenes/Track1.unity
+    guid: b2b3887c1e8074145a03e3ab2466ee78
+  - enabled: 1
+    path: Assets/Scenes/Track2.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Track3.unity
+    guid: b5593c6d68a622342bad67245e15d5f3
+  - enabled: 1
+    path: Assets/Scenes/Track4.unity
+    guid: 1a9fc29ee14612a4a863dbff31966430
+  - enabled: 1
+    path: Assets/Scenes/Track5.unity
+    guid: 8dc91589fa9c662438782ba5148b7896
+  - enabled: 1
+    path: Assets/Scenes/Track6.unity
+    guid: 26c32dddaeee5674094a39971ad56d69
+  - enabled: 1
+    path: Assets/Scenes/Track7.unity
+    guid: f54f0ea983261784989f8960f104e711
+  - enabled: 1
+    path: Assets/Level/MFU0.unity
+    guid: 5d715845d96858348a74dbe4b3cd3c57
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 95d8bf17acba4304ea07ce112dadb3cc,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 9ae6f79d07ec73f4eb77460ea8c3cc9a, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 32f287d532645e746895460dd4c196ba,
+      type: 2}
