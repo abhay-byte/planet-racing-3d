@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523354167996",
+    "project_id": "planet-racer-28718",
+    "storage_bucket": "planet-racer-28718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523354167996:android:d95bba36893b305b0d0eb9",
+        "android_client_info": {
+          "package_name": "com.hindgames.planetracing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523354167996-nnrih3fl7rkbhp49egsqg0mi5hjp2f2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAah99GCmFWGunwrZSAcyrEZ9-xlyHduCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523354167996-nnrih3fl7rkbhp49egsqg0mi5hjp2f2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
